@@ -16,7 +16,7 @@ export default function Home() {
       </main>
       <div className=''>
         <ul className='justify-around flex-column gap-16 container bg-slate-800 mt-16 mx-auto rounded p-4 items-center font-semibold'>
-          <li className='bg-slate-600 p-10 rounded mx-2 my-2 justify-center flex'><a href="/ProductRegistration">Product Registration</a></li>
+          <li className='bg-slate-600 p-10 rounded mx-2 my-2 justify-center flex'><a href="/productregistration">Product Registration</a></li>
           <li className='bg-slate-600 p-10 rounded mx-2 my-2 justify-center flex'><a href="/InventoryManagement">Inventory Management</a></li>
           <li className='bg-slate-600 p-10 rounded mx-2 my-2 justify-center flex'><a href="#">Transaction Logging</a></li>
           <li className='bg-slate-600 p-10 rounded mx-2 my-2 justify-center flex'><a href="#">Categories And Tags</a></li>
